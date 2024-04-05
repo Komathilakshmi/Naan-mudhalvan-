@@ -1,5 +1,5 @@
 PROJECT: MULTIPLE CHATBOT USING GEMINI 
-In today's digital landscape, efficiently accessing and extracting 
+      In today's digital landscape, efficiently accessing and extracting 
 pertinent information from PDF documents remains a significant 
 challenge. Users across various domains struggle with manual scanning 
 of documents and limited keyword-based search capabilities, leading to 
