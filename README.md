@@ -1,4 +1,4 @@
-PROJECT: MULTIPLE CHATBOT USING GEMINI 
+MULTIPLE CHATBOT USING GEMINI 
       In today's digital landscape, efficiently accessing and extracting 
 pertinent information from PDF documents remains a significant 
 challenge. Users across various domains struggle with manual scanning 
